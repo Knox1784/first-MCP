@@ -9,12 +9,12 @@ copy and paste this code to the terminal, which allows starting querying
 
 '''python
 python /Users/knoxv/quickstart-resources/weather-server-python/src/weather/server.py
-
+'''
 
 
 and you can check whether the server is working or not by this code 
 
 '''python
 python /Users/knoxv/quickstart-resources/weather-server-python/src/weather/server.py'
-
+'''
 
